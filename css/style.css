@@ -1,0 +1,135 @@
+/*  CSS FILE  */
+.mainWrapper{
+	min-height: 1500px;
+	background-color: #6A287E;
+	
+	
+}
+.header{
+	
+	text-align: center;
+	font-weight: bold;
+	color:red;
+	font-size: 20px;
+	
+}
+
+.borders{
+	
+	min-height: 50px;
+
+
+}
+.profileBook{
+	
+	min-height: 500px;
+
+}
+.siteBody{
+	min-height: 650px;
+}
+
+.bodyContainers{
+	min-height:500px;
+	text-align: center;
+}
+
+.innerContainers{
+	min-height:576px;
+	
+}
+.headers{
+	height:150px;
+}
+.myNav{
+	padding-top: 5px;
+	padding-left: 35px;
+}
+
+.gallery{
+	margin: 20px;
+	border:0px dashed black;
+	height:245px;
+}
+.active{
+padding-right: 10;
+
+}
+
+	
+.nav-pills > li.active > a {
+    background-color: black;
+}
+.nav-pills>li.active>a:hover {
+    background-color: blue; 
+}
+p{
+
+color:white;
+font:bold;
+}
+body{
+background-color: black;
+
+}
+a {
+    color: #FFFF00;
+}
+.featured{
+	padding-top:50px;
+	min-height:575px;
+}
+.indexSide{
+min-height:50px;
+}
+h1{
+background:black;
+ color:white;
+}
+h2{
+
+background:black;
+ color:white;
+}
+h3{
+margin-left:35px;
+margin-right: 65px;
+background:black;
+ color:white;
+}
+h4{
+margin-left:35px;
+margin-right: 65px;
+background:black;
+ color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
